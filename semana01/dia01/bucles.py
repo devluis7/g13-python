@@ -1,6 +1,6 @@
 #while (condicion)
 opcion = 0
-opcion = input("ingrese opcion")
+opcion = input("ingrese opcion: ")
 while (opcion == "0"):
     print("=========================== Opciones ===========================")
     print(" 1) Opción 01")
